@@ -1,4 +1,4 @@
-# Hi, I'm Timur :joy:. Nice to meet u!
+# Hi, I'm Timur 🌐. Nice to meet u!
 --------------------------------------
 
 This repo is a simple exo where Im supposed to learn an HTML/CSS project.
@@ -13,7 +13,7 @@ Basically I'm playing with:
 6. Markdown
 
 
-## ==Follow the tasks!==
+## == Follow my progress! ==
 
 - [ ] Landing page made
 - [ ] CSS in use
