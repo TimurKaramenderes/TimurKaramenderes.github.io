@@ -21,6 +21,5 @@ Basically I'm playing with:
 - [ ] Project done
 
 
-
-[^1]: Started: 02 May 2022
+~~ Started: 02 May 2022 ~~
 
