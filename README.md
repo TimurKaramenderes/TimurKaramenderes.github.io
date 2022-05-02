@@ -20,5 +20,10 @@ Basically I'm playing with:
 - [ ] HTML in use
 - [ ] Project done
 
+Btw I love making ![gif](https://media.giphy.com/media/zm4pxg6Pj8qkA4qd4F/giphy.gif)
+
+
+
+
 
 ~~Started 02 May 2022~~
