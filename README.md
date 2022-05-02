@@ -1,6 +1,5 @@
 # Hi, I'm Timur 🌐
 
-
 This repo is a simple exo where Im supposed to learn an HTML/CSS project.
 
 Basically I'm playing with:
@@ -20,7 +19,11 @@ Basically I'm playing with:
 - [ ] HTML in use
 - [ ] Project done
 
-Btw I love making ![gif](https://media.giphy.com/media/zm4pxg6Pj8qkA4qd4F/giphy.gif)
+
+*Sometimes they call me Babings*
+
+
+![gif](https://media.giphy.com/media/zm4pxg6Pj8qkA4qd4F/giphy.gif)
 
 
 
