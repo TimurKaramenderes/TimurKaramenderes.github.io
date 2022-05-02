@@ -14,10 +14,10 @@ Basically I'm playing with:
 
 ## Follow my progress!
 
-- [ ] Landing page made [here](https://timurkaramenderes.github.io)
-- [ ] CSS in use
-- [ ] HTML in use
-- [ ] Project done
+- [x] Landing page made [here](https://timurkaramenderes.github.io)
+- [x] CSS in use
+- [x] HTML in use
+- [x] Project done
 
 
 *Sometimes they call me Babings*
