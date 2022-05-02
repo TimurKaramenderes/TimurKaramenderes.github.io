@@ -15,7 +15,7 @@ Basically I'm playing with:
 
 ## Follow my progress!
 
-- [ ] Landing page made
+- [ ] Landing page made [here](https://timurkaramenderes.github.io)
 - [ ] CSS in use
 - [ ] HTML in use
 - [ ] Project done
